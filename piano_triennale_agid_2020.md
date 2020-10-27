@@ -2,6 +2,8 @@
 
 Il **Piano triennale** per l’informatica nella pubblica amministrazione per triennio **2020-22** ha come obiettivo la completa digitalizzazione di tutti i servizi pubblici. Il piano ha un orizzonte temporale di tre anni e viene aggironato almeno una volta all'anno.
 
+Sito istituzionale: [https://pianotriennale-ict.italia.it/piano/](https://pianotriennale-ict.italia.it/piano/)
+
 Il Piano è emesso da AgID in attuazione dell’articolo 14-bis, comma 2, lettera b) del [Codice dell’amministrazione digitale (CAD)](https://www.agendadigitale.eu/cittadinanza-digitale/come-cambia-il-cad-dopo-il-semplificazioni-il-testo-coordinato/) e le pubbliche amministrazioni operano in conformità ad esso secondo quanto stabilito nell’articolo 12 dello stesso CAD.
 
 Il Piano è notevolmente più snello del Piano precedente (84 pagine rispetto alle 339). AgID dichiara esplicitamente la continuità con i due Piani precedenti  nell’*executive summary*:
